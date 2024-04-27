@@ -20,3 +20,7 @@ This repository contains all the necessary files for the Patient Survival Predic
 4. **Supervised_Machine_Learning_File_Report_bb-1.pdf**
    - **Description**: This PDF file is the final written report of the project. It includes a detailed explanation of the project's purpose, data analysis, methodology, results, discussions, and conclusions.
 
+## Data Set
+
+5. **dataset.csv**
+   - **Description**: This is the patient survival dataset found at kaggle cited here: Agarwal, M. (n.d.). Patient. Kaggle. Retrieved from https://www.kaggle.com/datasets/mitishaagarwal/patient 
